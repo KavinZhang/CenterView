@@ -4,5 +4,6 @@
         Title="MainWindow" Height="350" Width="525">
     <Grid>
         <Grid.RowDefinitions></Grid.RowDefinitions>
+        <TextBlock>301</TextBlock>
     </Grid>
 </Window>
